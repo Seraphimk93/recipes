@@ -2,5 +2,8 @@
 -Avocado
 -lime
 -salt 
-#instructions 
+#instructions
+- get friends
+- fail
+- cry yourself to sleep 
 
